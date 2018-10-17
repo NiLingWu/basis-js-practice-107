@@ -1,6 +1,6 @@
 # basis-js-practice-107
-## JS进阶集合练习
-使用简介
+## JS进阶集合练习使用简介
+
 1.运行所有测试
 npm test
 
